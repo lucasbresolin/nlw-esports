@@ -22,7 +22,7 @@ NLW eSports é um projeto voltado para a conexão entre gamers.
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/community/file/1102912263666619803). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/community/file/1150897317533332617). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ---
 
